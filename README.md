@@ -1,0 +1,3 @@
+# IndustrialHMI
+
+Projet généré automatiquement.
