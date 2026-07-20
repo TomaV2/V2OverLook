@@ -1,6 +1,6 @@
-# 🏭 IndustrialHMI
+# 🏭 V2 OverLook
 
-> **IndustrialHMI** est un framework open-source développé en **Node.js** permettant de créer des Interfaces Homme-Machine (HMI) industrielles modernes, performantes et multiplateformes.
+> **V2 OverLook** est un framework open-source développé en **Node.js** permettant de créer des Interfaces Homme-Machine (HMI) industrielles modernes, performantes et multiplateformes.
 
 L'objectif du projet est de proposer une alternative libre aux solutions propriétaires comme **TwinCAT HMI**, **WinCC**, **Ignition** ou **FactoryTalk**, tout en restant simple à développer, extensible et indépendante des constructeurs d'automates.
 
@@ -25,7 +25,7 @@ L'objectif du projet est de proposer une alternative libre aux solutions propri�
 
 # 🎯 Philosophie
 
-IndustrialHMI est un **framework**, pas une simple HMI.
+V2 OverLook est un **framework**, pas une simple HMI.
 
 Le moteur reste identique pour toutes les machines.
 
@@ -44,7 +44,7 @@ Le Framework s'occupe de tout le reste.
 # 🏗️ Architecture
 
 ```text
-IndustrialHMI/
+V2 OverLook/
 │
 ├── framework/
 │
@@ -190,7 +190,6 @@ Exemple :
 ## 🚧 À venir
 
 - OPC-UA
-- Modbus TCP
 - Siemens S7
 - MQTT
 
@@ -290,7 +289,7 @@ Ainsi, changer de protocole ne nécessite aucune modification des pages HTML.
 
 # ⚙️ CLI
 
-IndustrialHMI possède son propre générateur de projets.
+V2 OverLook possède son propre générateur de projets.
 
 Créer le Framework
 
@@ -401,7 +400,6 @@ logs/
 ## 🌍 Phase 4
 
 - [ ] Driver OPC-UA
-- [ ] Driver Modbus
 - [ ] Mode Simulation
 - [ ] Internationalisation
 - [ ] Export de projets
@@ -419,7 +417,7 @@ logs/
 
 # 💡 Vision
 
-IndustrialHMI a pour ambition de devenir un **framework complet de développement d'IHM industrielles**.
+V2 OverLook a pour ambition de devenir un **framework complet de développement d'IHM industrielles**.
 
 À terme, créer une nouvelle machine devra simplement consister à :
 
@@ -447,4 +445,4 @@ Le Framework prendra en charge automatiquement :
 
 Projet en cours de développement.
 
-**IndustrialHMI © 2026**
+**V2 OverLook © 2026**
